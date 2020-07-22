@@ -9,3 +9,5 @@ Datasets are provided in each of the folders above, and also the solution to the
 
 ### Competition(s) with ranks:
 _• Titanic: Machine Learning from Disaster - **Top 26%**_<br/>
+
+**_Note: Donot copy any solutions, use only for reference purpose._**<br/>
