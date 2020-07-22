@@ -3,9 +3,9 @@
 
 ### Description about repository:
 This repository consists of all the competitions that I have taken part on _Kaggle.com_<br/>
-Datasets are provided in each of the folders above, and also the solution to the problem statements have been provided.<br/><br/>
+Datasets are provided in each of the folders above, and also the solution to the problem statements have been provided.<br/>
 
-• Please do ⭐ the repository, if it helped you in anyway.<br/><br/>
+• Please do ⭐ the repository, if it helped you in anyway.<br/>
 
 ### Competition(s) with ranks:
 _• Titanic: Machine Learning from Disaster - **Top 26%**_<br/>
