@@ -11,4 +11,4 @@
 ### Competition(s) with ranks:
 _• Titanic: Machine Learning from Disaster - **Top 26%**_<br/>
 
-**_Note: Don't copy any solutions, use only for reference purpose._**<br/>
+**_Note: Don't copy any solutions, use them for reference purpose only._**<br/>
