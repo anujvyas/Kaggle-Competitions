@@ -9,6 +9,6 @@
 **• Please do ⭐ the repository, if it helped you in anyway.**<br/>
 
 ### Competition(s) with ranks:
-_• Titanic: Machine Learning from Disaster - **Top 25%**_<br/>
+_• Titanic: Machine Learning from Disaster - **Top 22%**_<br/>
 
 **_Note: Don't copy any solutions, use them for reference purpose only._**<br/>
